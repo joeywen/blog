@@ -2,52 +2,44 @@
 layout: page
 title: About me
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2014-04-20
+modified: 2015-02-15
 image:
   feature: so-simple-sample-image-4.jpg
-  credit: Joway.W
-  creditlink: http://www.joway-w.com/about
+  credit: Joey Wen
+  creditlink: http://www.joey.lovesheryl.com/about
 ---
 
 
 
-大学生，程序猿，文学爱好者
+程序猿，文艺爱好者
 
-喜欢摄影，旅行，读书。
+喜欢摄影，旅行，读书，听音乐。
 
-热爱生活，热爱女人。
+热爱生活，爱Sheryl。
 
-总是捣鼓些新奇玩意。
+总是对新奇玩意充满好奇心。
 
-在这里会写些日常随笔，读书笔记，技术摘要。
+典型的双子座，聪明，学的快！
 
-至于博客对我的意义，无非是自己为自己死后准备的坟。
+在此记录我的工作，我的生活。
 
-坟上的草，在我年轻时，就看着它一点点长起。
 
-新浪微博:[**Joway_**](http://weibo.com/670425438?from=profile&wvr=5&loc=infdomain)
 
-QQ: **670425438**
+新浪微博:[**Wen_志光**](http://weibo.com/1954399895/profile?topnav=1&wvr=6)
 
-邮箱：**Joway.W@gmail.com**
+QQ: **291572262**
 
-Facebook:**Joway Wong**
+邮箱：**joey.wen@outlook.com**
 
-github:[**Joway**](http://github.com/joway)
+Skype:**joeywen**
 
-知乎：[**Joway**](http://www.zhihu.com/people/Joway)
+github:[**joeywen**](http://github.com/joeywen)
 
-豆瓣：[**Joway**](http://www.douban.com/people/54019708/)
+知乎：[**joeywen**](http://www.zhihu.com/people/joeywen)
 
-备用网址：
+豆瓣：[**joeywen**](http://www.douban.com/people/44655693/)
 
-[Joway.wang](http://Joway.Wang)
-
-[Joway-W.com](http://Joway-W.com)
-
-[joway.tk](http://joway.tk)
-
-[joway.github.io](http://joway.github.io)
+CSDN: [**joeywen**](http://blog.csdn.net/wzhg0508)
 
 
 
