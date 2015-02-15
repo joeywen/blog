@@ -1,29 +1,29 @@
-﻿title:            Joway
-description:      沧浪之水清兮，可以濯吾缨。 沧浪之水浊兮，可以濯吾足。
+﻿title:            Joey.W
+description:      别人笑我太疯癫, 我笑他人看不穿。不见五陵豪杰墓, 无花无酒锄作田。
 logo:             site-logo.png
 disqus_shortname: Joway
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://joway.wang
-asset_url:        http://joway.wang 
+url:              http://joeywen.github.io/lovesheryl/
+asset_url:        http://joeywen.github.io/lovesheryl/ 
 
 # Owner/author information
 owner:
-  name:           Joway.W
+  name:           Joey.W
   avatar:         bio-photo.jpg
-  email:          670425438@qq.com
+  email:          joey.wen@outlook.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         joway
+  github:         joeywen
   stackexchange:  
   linkedin:       
   instagram:      
   flickr:         
   tumblr:         
-  weibo:          http://weibo.com/670425438 
+  weibo:          
   # For Google Authorship https://plus.google.com/joway
-  google_plus:    https://plus.google.com/joway
+  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
@@ -103,6 +103,6 @@ gallery:
     xitang:
       best_image: IMG_5975.jpg
       catetory_tag: 西塘
-      gallery_time: 2012年12月
+      gallery_time: 
     
 
